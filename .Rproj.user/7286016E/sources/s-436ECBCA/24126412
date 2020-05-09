@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1588681061908.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "24126412",
+    "lastKnownWriteTime" : 1588985427,
+    "last_content_update" : 1588985427721,
+    "path" : "~/GitHub/TPM_ggplot/GSE116250_convert_counts_TPM_voom-adjTPM.R",
+    "project_path" : "GSE116250_convert_counts_TPM_voom-adjTPM.R",
+    "properties" : {
+        "cursorPosition" : "73,70",
+        "scrollLine" : "70"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
